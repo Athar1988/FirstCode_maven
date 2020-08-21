@@ -24,6 +24,5 @@ Mot de cle :<input type="text" name="Motcle">
 </tr>
 </c:forEach>
 </table> 
-
 </body>
 </html>

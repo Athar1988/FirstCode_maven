@@ -29,4 +29,7 @@ public class MetierImp implements IMetierCatalogue{
 	public void addProduit(Produit P) {
 		// TODO Auto-generated method stub
 	}
+	public String affiche() {
+	return "aaaaaaaa";
+	}
 }
